@@ -41,5 +41,5 @@ The Beta Bank is facing a customer churn issue, with many clients leaving each m
 
 - **Data Preprocessing & Feature Engineering:** Effective handling of raw data, cleaning, and preparation for machine learning models.
 - **Model Building & Tuning**: Building classification models with a focus on improving metrics like F1-score, and tuning hyperparameters to enhance performance.
-- **Class Imbalance Strategies**: Gained experience in dealing with imbalanced datasets using verious techniques like to ensure model performance remains robust.
+- **Class Imbalance Strategies**: Gained experience in dealing with imbalanced datasets using verious techniques to ensure model performance remains robust.
 - **Model Evaluation Metrics:** Learned to use F1-score and AUC-ROC as key metrics to assess classification models, understanding their trade-offs and implications on model selection.
