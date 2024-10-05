@@ -3,6 +3,7 @@
 
 ## Table of Contents
 
+
 - [Beta Bank Churn Analysis](#beta-bank-churn-analysis)
   - [Table of Contents](#table-of-contents)
   - [Project Objective](#project-objective)
@@ -10,6 +11,7 @@
   - [Tools and Techniques Utilized](#tools-and-techniques-utilized)
   - [Specific Results and Outcomes](#specific-results-and-outcomes)
   - [What I Have Learned from This Project](#what-i-have-learned-from-this-project)
+  - [How to Use This Repository](#how-to-use-this-repository)
 
 ## Project Objective
 
@@ -63,5 +65,24 @@ The Beta Bank is facing a customer churn issue, with many clients leaving each m
 - **Model Building & Tuning**: Building classification models with a focus on improving metrics like F1-score, and tuning hyperparameters to enhance performance.
 - **Class Imbalance Strategies**: Gained experience in dealing with imbalanced datasets using verious techniques to ensure model performance remains robust.
 - **Model Evaluation Metrics:** Learned to use F1-score and AUC-ROC as key metrics to assess classification models, understanding their trade-offs and implications on model selection.
+
+[back to top](#beta-bank-churn-analysis)
+
+## How to Use This Repository
+
+1. **Clone the Repository**  
+   Clone the repository to your local environment:
+[https://github.com/realdanizilla/Beta-Bank.git](https://github.com/realdanizilla/Beta-Bank.git)
+
+
+2. **Review Jupyter Notebooks and Data Files**  
+Open the Jupyter notebooks to explore the data processing, model development, and evaluation steps.
+
+3. **Execute Notebooks for Analysis**  
+Run the notebooks to preprocess data, train models, and evaluate predictions for customer churn.
+
+4. **Analyze Results**  
+Use the insights from model performance to support customer retention efforts based on the predictions.
+
 
 [back to top](#beta-bank-churn-analysis)
