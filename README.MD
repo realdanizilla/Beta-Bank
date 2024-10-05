@@ -2,6 +2,7 @@
 # Beta Bank Churn Analysis
 
 ## Table of Contents
+
 - [Beta Bank Churn Analysis](#beta-bank-churn-analysis)
   - [Table of Contents](#table-of-contents)
   - [Project Objective](#project-objective)
@@ -46,6 +47,8 @@ The Beta Bank is facing a customer churn issue, with many clients leaving each m
 **Visualization & Evaluation:**
 - Matplotlib, Seaborn: For data visualization to better understand class distribution and model performance.
 - AUC-ROC Curve, F1-Score: For evaluating the classification model's effectiveness and predictive power.
+
+[back to top](#beta-bank-churn-analysis)
 
 ## Specific Results and Outcomes
 - The F1-score for the random forest model achieved a value above the threshold of 0.59 and AUC-ROC score of 0,85.
